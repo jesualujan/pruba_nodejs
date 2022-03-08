@@ -1,0 +1,28 @@
+{
+  "name": "prueba_dos",
+  "version": "1.0.0",
+  "description": "aprendiendo a usar nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesualujan/pruba_nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "npm"
+  ],
+  "author": "jesua lujan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jesualujan/pruba_nodejs/issues"
+  },
+  "homepage": "https://github.com/jesualujan/pruba_nodejs#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
